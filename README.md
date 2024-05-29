@@ -15,7 +15,7 @@ python ./datasets/datasetmaker.py
 
 1 Create conda environment.
 ```
-conda create --name ignn
+conda create --name ignn python=3.8 
 conda activate ignn
 conda install pytorch=1.1.0 torchvision=0.3.0 cudatoolkit=9.0 -c pytorch
 ```
@@ -32,7 +32,7 @@ bash install.sh
 
 4 Install other dependencies.
 ```
-pip install -r requirements.txt
+pip install -r requirement_new.txt
 ```
 
 ## Model weight
