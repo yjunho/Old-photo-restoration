@@ -1,6 +1,6 @@
 # Old-photo-restoration Using IGNN
 
-![My Project Logo](images/logo.png)
+![My Project Logo](images/loge.png)
 
 ## Datasets
 
